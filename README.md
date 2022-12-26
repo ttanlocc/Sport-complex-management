@@ -1,6 +1,6 @@
 # SportCenterManagement
 
-Document: https://drive.google.com/drive/u/0/folders/1--Bd-Ne30uEmDFKhrwNY9eK--elquwgH
+Document: https://drive.google.com/file/d/1FirSxSXjPJXnfVHfsIC51_xYEAIYAv5Y/view?usp=share_link
 
 Build Steps :
   - Clone Project from Github
